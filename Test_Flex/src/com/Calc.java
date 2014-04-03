@@ -18,7 +18,7 @@ public class Calc {
 	//	 http://www.permadi.com/tutorial/flashjscommand/
 		//	 driver.get("http://www.permadi.com/tutorial/flashjscommand/");
 		 driver.get("http://www.qtpselenium.com/flashapp/flash2/Calculator.html");
-		 
+		 System.out.println("hello all");
 		 FlexWebDriver flashApp = new FlexWebDriver(driver, "Calculator");
 	//	 FlexWebDriver flashApp = new FlexWebDriver(driver, "myFlashMovie");
 	//	 flashApp.call("Play"); // first number
