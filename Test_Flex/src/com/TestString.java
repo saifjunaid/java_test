@@ -13,7 +13,7 @@ public class TestString {
 		test(data,sb);
 		System.out.println(data);
 		System.out.println(sb);
-		System.out.println("Git Demo ");
+		System.out.println("Git");
 	}
 
 	static void test(String nData,StringBuffer sb){
